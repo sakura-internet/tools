@@ -1,16 +1,3 @@
-
-
-さくらの便利ツール
-さくらの公式ツール
-
-・現時点では private リポジトリ
-
-sakura-links
-https://github.com/sakura-internet/sakura-links
-
-https://github.com/sakura-internet/developer
-
-
 # さくらの便利ツールまとめ
 
 [さくらインターネット](http://developer.sakura.ad.jp/)の各サービスに対応したツール、ライブラリ、技術情報などを紹介するリンク集です。
