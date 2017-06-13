@@ -16,6 +16,7 @@
 - **[libsacloud](https://github.com/sacloud/libsacloud)** … さくらのクラウド API を操作する Go 言語の API クライアントです。
 - **[saklient さくらのクラウド クライアントライブラリ](http://sakura-internet.github.io/saklient.doc/)** … さくらのクラウド上のリソースを簡単にコントロールするためのライブラリです。PHP, Perl, Ruby, Python, C# 等の言語でご利用いただけます。
 - **[sackerel](https://github.com/sacloud/sackerel)** … さくらのクラウドと [Mackerel](https://mackerel.io/ja/) のインテグレーションツールです。さくらのクラウド上のリソース情報を Makerel と連携できます。 `sakerel` を起動しておけば、さくらのクラウド上のリソースを作成/更新するだけで、自動で Mackerel と連携します。
+- **[sacloud-upload-image](https://github.com/yamamoto-febc/sacloud-upload-image)** … さくらのクラウドへ ISO イメージをアップロードするための専用コマンドツールです。
 - **[さくらのクラウド デベロッパーセンター](http://developer.sakura.ad.jp/)** … さくらのクラウドをプラットフォームとしてシステム開発をされる方、システム提案をされる方のために、さまざまな情報を発信しています。
 
 ## リンクの追加をご希望の方は
