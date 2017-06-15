@@ -1,6 +1,6 @@
 # さくらの便利ツールまとめ
 
-[さくらインターネット](http://developer.sakura.ad.jp/)の各サービスに対応した、公式またはコミュニティによる各ツール、ライブラリ、技術情報などを紹介するリンク集です。
+[さくらインターネット](http://developer.sakura.ad.jp/)の各サービスに対応したツール、ライブラリ、技術情報などを紹介するリンク集です。
 
 ## サービス全般
 
@@ -17,9 +17,10 @@
 - **[saklient さくらのクラウド クライアントライブラリ](http://sakura-internet.github.io/saklient.doc/)** … さくらのクラウド上のリソースを簡単にコントロールするためのライブラリです。PHP, Perl, Ruby, Python, C# 等の言語でご利用いただけます。
 - **[sackerel](https://github.com/sacloud/sackerel)** … さくらのクラウドと [Mackerel](https://mackerel.io/ja/) のインテグレーションツールです。さくらのクラウド上のリソース情報を Makerel と連携できます。 `sakerel` を起動しておけば、さくらのクラウド上のリソースを作成/更新するだけで、自動で Mackerel と連携します。
 - **[sacloud-upload-image](https://github.com/yamamoto-febc/sacloud-upload-image)** … さくらのクラウドへ ISO イメージをアップロードするための専用コマンドツールです。
+- **[さくらのクラウドデザインパターン設計ガイド](http://cdp.sacloud.jp/)** … さくらのクラウドにおけるベストプラクティスをクラウドパターンとして体系化し公開していくコミュニティプロジェクトです。
 - **[さくらのクラウド デベロッパーセンター](http://developer.sakura.ad.jp/)** … さくらのクラウドをプラットフォームとしてシステム開発をされる方、システム提案をされる方のために、さまざまな情報を発信しています。
 
 ## リンクの追加をご希望の方は
 
-皆さんが作成されているツールの情報追加をご希望の場合は、issue または Pull Request でお知らせください。お待ちしております。
+皆さんが作成されているツールの情報追加をご希望の場合は、[issue](https://github.com/sakura-internet/tools/issues) または [Pull Request](https://github.com/sakura-internet/tools/pulls) でお知らせください。お待ちしております。
 
