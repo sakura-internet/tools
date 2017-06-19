@@ -8,6 +8,7 @@
 
 ## さくらのクラウド
 
+- [サービスサイト](http://cloud.sakura.ad.jp/) 
 - **[Terraform for さくらのクラウド](https://github.com/sacloud/terraform-provider-sakuracloud)** … [Terraform](https://www.terraform.io/)  でさくらのクラウドを操作するためのプロラグインです。このプラグインは `さくらインターネット公認ツール` として、さくらのクラウドユーザコミュニティによって開発されています。
 - **[Terraform for Sakura Cloud ハンズオン資料](https://github.com/zembutsu/sakura-terraform)** … Terraform for さくらのクラウドに対応したサンプル .tf ファイルや、チュートリアル手順を配布しています。
 - **[packer-builder-sakuracloud]()** … さくらのクラウド用 [Packer](https://www.packer.io/) プラグインです。さくらのクラウドでアーカイブ（構築済み OS テンプレート）を自動作成できます。
