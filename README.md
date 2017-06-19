@@ -6,6 +6,11 @@
 
 - **[Google Chrome 拡張機能 さくらのコントロールパネルリンク](https://chrome.google.com/webstore/detail/lpjekhokckhcokjklglljenadonhfcdb)** … さくらインターネットの提供する各種サービスのコントロールパネルへ素早くアクセスできる、さくら公式の拡張機能です。並び順はドラッグアンドドロップで自由に入れ替えることができます。
 
+## Arukas
+
+- [サービスサイト](https://arukas.io/)
+- **[Arukas CLI](https://github.com/arukasio/cli)** … Arukas 上のアプリケーションを管理するためのコマンドライン・ツールです。
+
 ## さくらのクラウド
 
 - [サービスサイト](http://cloud.sakura.ad.jp/) 
